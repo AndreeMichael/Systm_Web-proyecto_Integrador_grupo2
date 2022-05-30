@@ -1,0 +1,203 @@
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\Systm_Web.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\Systm_Web.pdb
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.Core.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\System.Web.Providers.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.Core.xml
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\es\EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\es\System.Web.Providers.resources.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.pdb
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\Entidades.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\Negocios.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\AccesoDato.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\Entidades.pdb
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\Negocios.pdb
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\AccesoDato.pdb
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\Systm_Web.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\Systm_Web.pdb
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.Core.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\Entidades.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\Negocios.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\System.Web.Providers.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\AccesoDato.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\Entidades.pdb
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\Negocios.pdb
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.Core.xml
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\AccesoDato.pdb
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\es\EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\es\System.Web.Providers.resources.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.pdb
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\Systm_Web.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\Systm_Web.pdb
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.Core.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\Entidades.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\Negocios.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\System.Web.Providers.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\AccesoDato.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\Entidades.pdb
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\Negocios.pdb
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.Core.xml
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\AccesoDato.pdb
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\es\EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\es\System.Web.Providers.resources.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.pdb
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.pdb
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\Systm_Web.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\Systm_Web.pdb
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.Core.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\Entidades.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\Negocios.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\System.Web.Providers.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\AccesoDato.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\Entidades.pdb
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\Negocios.pdb
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.Core.xml
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\AccesoDato.pdb
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\es\EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\es\System.Web.Providers.resources.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Systm_Web\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\Systm_Web.dll.config
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\Systm_Web.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\Systm_Web.pdb
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\Antlr3.Runtime.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.Core.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\Entidades.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\EntityFramework.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\Negocios.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\System.Web.Optimization.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\System.Web.Providers.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\WebGrease.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\AccesoDato.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\Entidades.pdb
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\Negocios.pdb
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\EntityFramework.xml
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.Core.xml
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\AccesoDato.pdb
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\es\EntityFramework.resources.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\es\System.Web.Optimization.resources.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\es\System.Web.Providers.resources.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.csprojAssemblyReference.cache
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.csproj.CoreCompileInputs.cache
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.csproj.CopyComplete
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.dll
+C:\Michael-Cibertec\6 CICLO\Control Visitante\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.pdb

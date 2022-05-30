@@ -1,0 +1,20 @@
+C:\Users\Usuario\Desktop\System\Systm_Web\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\System\Systm_Web\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\System\Systm_Web\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\Entidades\bin\Debug\Entidades.pdb

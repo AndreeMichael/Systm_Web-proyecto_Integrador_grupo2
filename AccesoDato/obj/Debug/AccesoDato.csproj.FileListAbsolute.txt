@@ -1,0 +1,28 @@
+C:\Users\Usuario\Desktop\System\Systm_Web\AccesoDato\bin\Debug\AccesoDato.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\AccesoDato\bin\Debug\AccesoDato.pdb
+C:\Users\Usuario\Desktop\System\Systm_Web\AccesoDato\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\AccesoDato\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\System\Systm_Web\AccesoDato\obj\Debug\AccesoDato.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\System\Systm_Web\AccesoDato\obj\Debug\AccesoDato.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\AccesoDato\obj\Debug\AccesoDato.pdb
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\AccesoDato\bin\Debug\AccesoDato.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\AccesoDato\bin\Debug\AccesoDato.pdb
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\AccesoDato\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\AccesoDato\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\AccesoDato\obj\Debug\AccesoDato.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\AccesoDato\obj\Debug\AccesoDato.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\AccesoDato\obj\Debug\AccesoDato.pdb
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\AccesoDato\bin\Debug\AccesoDato.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\AccesoDato\bin\Debug\AccesoDato.pdb
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\AccesoDato\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\AccesoDato\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\AccesoDato\obj\Debug\AccesoDato.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\AccesoDato\obj\Debug\AccesoDato.dll
+C:\Users\Usuario\Desktop\Control Visitante Condominio\System\Systm_Web\AccesoDato\obj\Debug\AccesoDato.pdb
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\AccesoDato\obj\Debug\AccesoDato.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\AccesoDato\obj\Debug\AccesoDato.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\AccesoDato\obj\Debug\AccesoDato.pdb
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\AccesoDato\bin\Debug\AccesoDato.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\AccesoDato\bin\Debug\AccesoDato.pdb
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\AccesoDato\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Control Visitante\System\Systm_Web\AccesoDato\bin\Debug\Entidades.pdb
